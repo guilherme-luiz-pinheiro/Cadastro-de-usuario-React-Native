@@ -239,14 +239,14 @@ const styles = StyleSheet.create({
     padding: 3,
     borderWidth: 1,
     borderRadius: 3,
-    width: 90,
+    width: 150,
     height: 30,
   }, inputSenhaConfirma: {
     backgroundColor: '#EDEDED',
     padding: 3,
     borderWidth: 1,
     borderRadius: 3,
-    width: 90,
+    width: 150,
     height: 30,
   }, botao: {
     shadowColor: "#000",
